@@ -350,7 +350,7 @@
 
 @media (width < 376px) {
   .modal {
-    padding: 30px 34px 28px 40px;
+    padding: 28px 34px 28px 40px;
     max-inline-size: 341px;
   }
 
