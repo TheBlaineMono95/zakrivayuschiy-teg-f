@@ -348,7 +348,7 @@
 
 /* Медиазапросы */
 
-@media (width < 375px) {
+@media (width < 376px) {
   .modal {
     padding: 28px 34px 28px 40px;
     max-inline-size: 340px;
@@ -371,6 +371,6 @@
   .card__img-label {
     text-shadow: none;
     -webkit-text-stroke: 1px var(--page-background-color, #ffffff);
-    (text-stroke: 1px var(--page-background-color, #ffffff));
+    text-stroke: 1px var(--page-background-color, #ffffff);
   }
 }
