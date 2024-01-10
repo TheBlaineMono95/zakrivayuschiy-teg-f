@@ -352,6 +352,7 @@
   .modal {
     padding: 28px 34px 28px 40px;
     max-inline-size: 340px;
+    overflow-x: hidden;
   }
 
   .button--save {
